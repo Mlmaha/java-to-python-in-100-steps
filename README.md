@@ -4,7 +4,6 @@
 
 ## Course Links
 
-[![Image](https://www.springboottutorial.com/images/Course-Python-Programming-For-Java-Programmers-in-100-Easy-Steps.png "Python For Beginners - Java to Python in 100 Steps")](https://www.udemy.com/course/learn-python-programming-for-java-programmers)
 
 ## Installing Tools
 - TODO
